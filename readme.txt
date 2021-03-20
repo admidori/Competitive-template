@@ -11,7 +11,7 @@ Competitive-template-使い方
 8.[sol.cpp > pbcopy]でsol.cppの内容をクリップボードにコピーします。
 9.あとは天を仰ぎながらsubmitしてACを期待しましょう。
 
-※test.shのクソコード副産物機能
+※test.shの特に重要視する程でもない機能
 引数にa,b,c,d,eを指定するとそれぞれcase1.txt,case2.txt,case3.txt,case4.txt,case5.txtの内容が実行されます。
 何も引数を与えなければ全てのcaseを実行します。
 
