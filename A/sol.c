@@ -12,6 +12,8 @@
 #define DBG_CHAR(arg) fprintf(stderr,"*DEBUG* " #arg "...%c\n",arg)
 #define DBG_STRING(arg) fprintf(stderr,"*DEBUG* " #arg "...%s\n",arg)
 
-int main(void){
-	
+typedef long long ll;
+
+signed main(void){
+
 }
