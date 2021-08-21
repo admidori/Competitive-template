@@ -11,9 +11,11 @@
 #define DBG_DOUBLE(arg) fprintf(stderr,"*DEBUG* " #arg "...%f\n",arg)
 #define DBG_CHAR(arg) fprintf(stderr,"*DEBUG* " #arg "...%c\n",arg)
 #define DBG_STRING(arg) fprintf(stderr,"*DEBUG* " #arg "...%s\n",arg)
+#define mal(type,size)  malloc(size*sizeof(type))
+#define rep(i,N)    for(int i=0;i<N;i++)
 
 typedef long long ll;
 
 signed main(void){
-
+    
 }
