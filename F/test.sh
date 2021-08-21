@@ -61,5 +61,6 @@ echo "----------case5.txt------------"
 fi
 
 echo "-------------END---------------"
+rm solve.out
 
 exit 0
