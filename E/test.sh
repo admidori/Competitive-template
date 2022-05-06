@@ -15,7 +15,7 @@ do
 done
 
 echo "--------gcc error log----------"
-gcc -o solve sol.c
+gcc -o solve sol.c -lm
 printf "\n"
 
 if [ "$FLG_1" = "TRUE" ]; then
