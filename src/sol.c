@@ -15,7 +15,8 @@
 #define rep(i,N)    for(int i=0;i<N;i++)
 #define rep2(i,N,M) for(int i=N;i<M;i++)
 
-typedef long long ll;
+typedef long long int lli; // %lld
+typedef unsigned long long int ulli; // %llu
 
 char *string_scan(char *S){
     S=mal(char,10);
